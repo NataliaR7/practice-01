@@ -1,0 +1,43 @@
+commit 41888d1dd037d7cc330f6173c5e2ab2e4151e739
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:41:14 2021 +0500
+
+    add prerelease file
+
+commit 43964a0630df51af47b9b7d6837f59f34e4cb1af
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:39:09 2021 +0500
+
+    add test file
+
+commit 535dd400bb599f531d9393a0f931b8acd877f0a9
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:34:41 2021 +0500
+
+    Добавила gitignore
+
+commit ac11f9c635d8e2d9ad911896d2e4707f10e70c59
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:28:18 2021 +0500
+
+    Revert "Добавила свой текущий статус и предмет"
+    
+    This reverts commit bcf257b53b460e40833ffd72575f2f1343c4e902.
+
+commit 2a6e9be0135d4600dbeb7fb0a3b02ac39abb3e05
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:22:02 2021 +0500
+
+    Третий коммит
+
+commit bcf257b53b460e40833ffd72575f2f1343c4e902
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:19:10 2021 +0500
+
+    Добавила свой текущий статус и предмет
+
+commit 97524a5de95553adf18047b6246334921c301671
+Author: Наталья Рогачева <natasha.rogachyova@mail.ru>
+Date:   Sat Sep 4 14:05:42 2021 +0500
+
+    Мой первый коммит
